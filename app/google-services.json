@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "508197992461",
+    "firebase_url": "https://fir-eadd0.firebaseio.com",
+    "project_id": "fir-eadd0",
+    "storage_bucket": "fir-eadd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508197992461:android:010a87fd49c8d02b90fd44",
+        "android_client_info": {
+          "package_name": "com.zoothii.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508197992461-lfrhi4t6ottja15lt6sr1kvjm09kj5bm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm9mbiSo1Un_JIGF9UNvp9W_COc9Pcd4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508197992461-lfrhi4t6ottja15lt6sr1kvjm09kj5bm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
